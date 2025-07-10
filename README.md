@@ -1,5 +1,9 @@
 <h1 align="center">StoreIt: Storage and File Sharing Platform</h1>
-
+<div align="center">
+     <a href="https://store-it-one-xi.vercel.app/sign-in" target="_blank">
+       <img src="https://img.shields.io/badge/Live%20Demo-View%20Project-blue?style=for-the-badge&logo=vercel" alt="Live Demo">
+     </a>
+</div>
  
 ## 📋 <a name="table">Table of Contents</a>
 
